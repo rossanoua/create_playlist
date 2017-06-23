@@ -11,7 +11,7 @@
 
 * all parameters must be a string
 * first one is the path for scaning (for example you Torrents dir)
-* second one is the filter from that the directory you want to create the playlist (as example directory there stores you downloaded serial)
+* second one is the filter from that the directory you want to create the playlist, enough several chars of name of directory (as example, directory, where stores you downloaded movie-serial)
 * third and last is the format of you files (mp4 or avi or whatever...)
 
 script was created for personal use
